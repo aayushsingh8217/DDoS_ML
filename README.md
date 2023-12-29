@@ -14,10 +14,7 @@ This machine learning project aims to detect and classify Distributed Denial of 
 - [Machine Learning Models](#machine-learning-models)
 - [Model Evaluation](#model-evaluation)
 - [Receiver Operating Characteristic (ROC) Curve Analysis](#receiver-operating-characteristic-roc-curve-analysis)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 
 DDoS attacks pose a significant threat to network security by overwhelming systems with a flood of traffic, making services unavailable. This project employs machine learning to classify network traffic as either benign or a potential DDoS attack. The goal is to develop robust models capable of accurate detection.
